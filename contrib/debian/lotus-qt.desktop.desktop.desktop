@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lotus
+Comment=Lotus P2P Cryptocurrency
+Exec=lotus-qt %u
+Terminal=false
+Type=Application
+Icon=lotus128
+MimeType=x-scheme-handler/lotus;
+Categories=Office;Finance;
+Name[de_DE]=lotus-qt.desktop.desktop

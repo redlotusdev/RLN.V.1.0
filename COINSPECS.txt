@@ -1,0 +1,19 @@
+Total supply: 4000,000,000 ( 4 billion RLS )
+
+Premine: 60,000,000 ( 60 million RLS )
+
+block reward: 250 RLS
+
+Masternode %age: 40
+
+POW %age: 60
+
+algorithm: X16R (+MN)
+
+blocktime: 2 minutes
+
+retargeting: every block
+
+coins required for a masternode : 25,000 ( 25 RLS )
+
+

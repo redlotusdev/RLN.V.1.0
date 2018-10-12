@@ -1,0 +1,3 @@
+debian/manpages/lotusd.1
+debian/manpages/lotus.conf.5
+debian/manpages/lotus-cli.1
